@@ -11,3 +11,5 @@ git add -A
 git commit -m 'deploy'
 
 git push -f git@github.com:ftcemployees/EarthquakeSimulation.git master:gh-pages
+
+cd -
