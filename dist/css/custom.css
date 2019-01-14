@@ -1,0 +1,9 @@
+.simulation-content {
+    margin-top: 50px;
+}
+
+.scroll-area {
+  height: 70vh;
+  overflow-y: scroll;
+  margin: 20px 0;
+}
