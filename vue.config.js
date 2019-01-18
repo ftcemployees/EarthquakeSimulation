@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/EarthquakeSimulation/"
+  publicPath: "/earthquake-simulation/"
 };
