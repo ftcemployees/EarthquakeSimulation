@@ -140,3 +140,9 @@ export default {
   components: { ContainerView }
 };
 </script>
+
+<style scoped>
+  p {
+    color: black;
+  }
+</style>

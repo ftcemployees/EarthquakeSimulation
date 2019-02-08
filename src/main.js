@@ -7,7 +7,10 @@ Vue.use(VueRouter);
 
 Vue.config.productionTip = false;
 
-const routes = [{ path: "/home", component: Home }];
+const routes = [
+  { path: "/", redirect: "/home" },
+  { path: "/home", component: Home }
+];
 
 const router = new VueRouter({ routes });
 
