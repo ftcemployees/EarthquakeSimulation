@@ -1,7 +1,7 @@
 <template>
   <ContainerView>
     <h1 slot="title">Home</h1>
-    <section slot="content">
+    <section slot="content" class="content">
       <h3>What is an Earthquake?</h3>
       <p>
         Earthquakes occur because of a sudden release of stored energy. This
@@ -67,7 +67,7 @@ export default {
 </script>
 
 <style scoped>
-  p {
-    color: black;
-  }
+p {
+  color: black;
+}
 </style>
