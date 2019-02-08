@@ -1,128 +1,53 @@
 <template>
   <ContainerView>
     <h1 slot="title">Home</h1>
-    <p slot="content">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ullamcorper morbi
-      tincidunt ornare massa eget egestas. Faucibus nisl tincidunt eget nullam.
-      Volutpat ac tincidunt vitae semper quis lectus nulla at. Morbi blandit
-      cursus risus at ultrices mi tempus imperdiet nulla. Nulla at volutpat diam
-      ut. Tincidunt dui ut ornare lectus sit amet est placerat in. Gravida in
-      fermentum et sollicitudin ac orci phasellus egestas. Lobortis mattis
-      aliquam faucibus purus in. Dignissim suspendisse in est ante in nibh
-      mauris cursus. Vitae nunc sed velit dignissim sodales ut eu sem integer.
-      Aliquam sem fringilla ut morbi tincidunt. Sagittis purus sit amet volutpat
-      consequat mauris. Adipiscing tristique risus nec feugiat. Bibendum enim
-      facilisis gravida neque convallis a cras semper. Ultrices eros in cursus
-      turpis massa tincidunt. Sit amet dictum sit amet justo donec enim diam.
-      Sed odio morbi quis commodo odio aenean sed. Aenean euismod elementum nisi
-      quis. Ullamcorper eget nulla facilisi etiam dignissim diam. Dignissim diam
-      quis enim lobortis scelerisque fermentum dui faucibus. Pretium fusce id
-      velit ut tortor pretium viverra. Mattis pellentesque id nibh tortor id
-      aliquet lectus proin. Ullamcorper eget nulla facilisi etiam dignissim.
-      Nulla malesuada pellentesque elit eget gravida. Non sodales neque sodales
-      ut etiam sit amet nisl. Arcu dictum varius duis at consectetur. Pretium
-      quam vulputate dignissim suspendisse. Nunc mi ipsum faucibus vitae aliquet
-      nec ullamcorper. Lorem sed risus ultricies tristique. Aliquet enim tortor
-      at auctor urna. At volutpat diam ut venenatis tellus in metus vulputate
-      eu. Tellus elementum sagittis vitae et leo duis. Sagittis purus sit amet
-      volutpat. Consequat id porta nibh venenatis cras sed felis eget. Vitae
-      proin sagittis nisl rhoncus mattis rhoncus urna neque. Nisi scelerisque eu
-      ultrices vitae auctor eu. A scelerisque purus semper eget duis at.
-      Consectetur adipiscing elit pellentesque habitant morbi tristique senectus
-      et netus. Suspendisse in est ante in nibh mauris. Volutpat ac tincidunt
-      vitae semper quis. At imperdiet dui accumsan sit amet nulla facilisi morbi
-      tempus. Pellentesque elit eget gravida cum sociis natoque. Convallis a
-      cras semper auctor neque vitae tempus quam pellentesque. Massa tempor nec
-      feugiat nisl pretium fusce id velit ut. Eget nunc lobortis mattis aliquam
-      faucibus purus in massa tempor. Vitae purus faucibus ornare suspendisse
-      sed nisi lacus. Duis convallis convallis tellus id interdum velit laoreet
-      id. Eget mauris pharetra et ultrices neque ornare aenean euismod. Duis
-      tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Vel
-      pharetra vel turpis nunc eget lorem dolor sed. Ante metus dictum at tempor
-      commodo ullamcorper. Nec feugiat in fermentum posuere urna nec tincidunt
-      praesent semper. Pulvinar etiam non quam lacus suspendisse.LLorem ipsum
-      dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-      incididunt ut labore et dolore magna aliqua. Ullamcorper morbi tincidunt
-      ornare massa eget egestas. Faucibus nisl tincidunt eget nullam. Volutpat
-      ac tincidunt vitae semper quis lectus nulla at. Morbi blandit cursus risus
-      at ultrices mi tempus imperdiet nulla. Nulla at volutpat diam ut.
-      Tincidunt dui ut ornare lectus sit amet est placerat in. Gravida in
-      fermentum et sollicitudin ac orci phasellus egestas. Lobortis mattis
-      aliquam faucibus purus in. Dignissim suspendisse in est ante in nibh
-      mauris cursus. Vitae nunc sed velit dignissim sodales ut eu sem integer.
-      Aliquam sem fringilla ut morbi tincidunt. Sagittis purus sit amet volutpat
-      consequat mauris. Adipiscing tristique risus nec feugiat. Bibendum enim
-      facilisis gravida neque convallis a cras semper. Ultrices eros in cursus
-      turpis massa tincidunt. Sit amet dictum sit amet justo donec enim diam.
-      Sed odio morbi quis commodo odio aenean sed. Aenean euismod elementum nisi
-      quis. Ullamcorper eget nulla facilisi etiam dignissim diam. Dignissim diam
-      quis enim lobortis scelerisque fermentum dui faucibus. Pretium fusce id
-      velit ut tortor pretium viverra. Mattis pellentesque id nibh tortor id
-      aliquet lectus proin. Ullamcorper eget nulla facilisi etiam dignissim.
-      Nulla malesuada pellentesque elit eget gravida. Non sodales neque sodales
-      ut etiam sit amet nisl. Arcu dictum varius duis at consectetur. Pretium
-      quam vulputate dignissim suspendisse. Nunc mi ipsum faucibus vitae aliquet
-      nec ullamcorper. Lorem sed risus ultricies tristique. Aliquet enim tortor
-      at auctor urna. At volutpat diam ut venenatis tellus in metus vulputate
-      eu. Tellus elementum sagittis vitae et leo duis. Sagittis purus sit amet
-      volutpat. Consequat id porta nibh venenatis cras sed felis eget. Vitae
-      proin sagittis nisl rhoncus mattis rhoncus urna neque. Nisi scelerisque eu
-      ultrices vitae auctor eu. A scelerisque purus semper eget duis at.
-      Consectetur adipiscing elit pellentesque habitant morbi tristique senectus
-      et netus. Suspendisse in est ante in nibh mauris. Volutpat ac tincidunt
-      vitae semper quis. At imperdiet dui accumsan sit amet nulla facilisi morbi
-      tempus. Pellentesque elit eget gravida cum sociis natoque. Convallis a
-      cras semper auctor neque vitae tempus quam pellentesque. Massa tempor nec
-      feugiat nisl pretium fusce id velit ut. Eget nunc lobortis mattis aliquam
-      faucibus purus in massa tempor. Vitae purus faucibus ornare suspendisse
-      sed nisi lacus. Duis convallis convallis tellus id interdum velit laoreet
-      id. Eget mauris pharetra et ultrices neque ornare aenean euismod. Duis
-      tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Vel
-      pharetra vel turpis nunc eget lorem dolor sed. Ante metus dictum at tempor
-      commodo ullamcorper. Nec feugiat in fermentum posuere urna nec tincidunt
-      praesent semper. Pulvinar etiam non quam lacus suspendisse.orem ipsum
-      dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-      incididunt ut labore et dolore magna aliqua. Ullamcorper morbi tincidunt
-      ornare massa eget egestas. Faucibus nisl tincidunt eget nullam. Volutpat
-      ac tincidunt vitae semper quis lectus nulla at. Morbi blandit cursus risus
-      at ultrices mi tempus imperdiet nulla. Nulla at volutpat diam ut.
-      Tincidunt dui ut ornare lectus sit amet est placerat in. Gravida in
-      fermentum et sollicitudin ac orci phasellus egestas. Lobortis mattis
-      aliquam faucibus purus in. Dignissim suspendisse in est ante in nibh
-      mauris cursus. Vitae nunc sed velit dignissim sodales ut eu sem integer.
-      Aliquam sem fringilla ut morbi tincidunt. Sagittis purus sit amet volutpat
-      consequat mauris. Adipiscing tristique risus nec feugiat. Bibendum enim
-      facilisis gravida neque convallis a cras semper. Ultrices eros in cursus
-      turpis massa tincidunt. Sit amet dictum sit amet justo donec enim diam.
-      Sed odio morbi quis commodo odio aenean sed. Aenean euismod elementum nisi
-      quis. Ullamcorper eget nulla facilisi etiam dignissim diam. Dignissim diam
-      quis enim lobortis scelerisque fermentum dui faucibus. Pretium fusce id
-      velit ut tortor pretium viverra. Mattis pellentesque id nibh tortor id
-      aliquet lectus proin. Ullamcorper eget nulla facilisi etiam dignissim.
-      Nulla malesuada pellentesque elit eget gravida. Non sodales neque sodales
-      ut etiam sit amet nisl. Arcu dictum varius duis at consectetur. Pretium
-      quam vulputate dignissim suspendisse. Nunc mi ipsum faucibus vitae aliquet
-      nec ullamcorper. Lorem sed risus ultricies tristique. Aliquet enim tortor
-      at auctor urna. At volutpat diam ut venenatis tellus in metus vulputate
-      eu. Tellus elementum sagittis vitae et leo duis. Sagittis purus sit amet
-      volutpat. Consequat id porta nibh venenatis cras sed felis eget. Vitae
-      proin sagittis nisl rhoncus mattis rhoncus urna neque. Nisi scelerisque eu
-      ultrices vitae auctor eu. A scelerisque purus semper eget duis at.
-      Consectetur adipiscing elit pellentesque habitant morbi tristique senectus
-      et netus. Suspendisse in est ante in nibh mauris. Volutpat ac tincidunt
-      vitae semper quis. At imperdiet dui accumsan sit amet nulla facilisi morbi
-      tempus. Pellentesque elit eget gravida cum sociis natoque. Convallis a
-      cras semper auctor neque vitae tempus quam pellentesque. Massa tempor nec
-      feugiat nisl pretium fusce id velit ut. Eget nunc lobortis mattis aliquam
-      faucibus purus in massa tempor. Vitae purus faucibus ornare suspendisse
-      sed nisi lacus. Duis convallis convallis tellus id interdum velit laoreet
-      id. Eget mauris pharetra et ultrices neque ornare aenean euismod. Duis
-      tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Vel
-      pharetra vel turpis nunc eget lorem dolor sed. Ante metus dictum at tempor
-      commodo ullamcorper. Nec feugiat in fermentum posuere urna nec tincidunt
-      praesent semper. Pulvinar etiam non quam lacus suspendisse.
-    </p>
+    <section slot="content">
+      <h3>What is an Earthquake?</h3>
+      <p>
+        Earthquakes occur because of a sudden release of stored energy. This
+        energy has built up over long periods of time as a result of tectonic
+        forces within the earth. Most earthquakes take place along faults in the
+        upper 25 miles of the earth's surface when one side rapidly moves
+        relative to the other side of the fault. This sudden motion causes chock
+        waves (seismic waves) to radiate from their point of origin called the
+        <b>focus</b> and travel through the earthquake. Each year there are
+        thousands of earthquakes that can be felt by people and over one million
+        that are strong to be recorded by instruments. Strong seismic waves can
+        cause great local damage and they can travel large distances. But even
+        weaker seismic waves can travel far and can be detected by sensitive
+        instruments called <b>seismographs</b>.
+      </p>
+      <h3>What are earthquake (Seismic ) Waves?</h3>
+      <p>
+        A seismic wave is simply a means of transferring energy from one spot to
+        another within the earth. Although seismologists recognize different
+        types of waves, we are interested in only two types: P (primary) waves,
+        which are similar to sound waves, and S (secondary) waves, which are a
+        kind of shear wave. Within the earth, P waves can travel through solids
+        and liquids, whereas S waves can only travel through solids.
+      </p>
+      <h3>What's a Seismogram?</h3>
+      <p>
+        A highly simplified simulated recording of earthquake waves (a
+        seismogram) can be seen to the left. Study this sample seismogram and be
+        sure you can identify these parts:
+      </p>
+      <ul>
+        <li>P-waves and the P-wave arrival time</li>
+        <li>S-waves and the S-wave arrival time</li>
+        <li>S-P interval (expressed in seconds)</li>
+        <li>S-wave maximum amplitude (measured in mm)</li>
+      </ul>
+      <p>
+        <b>Note well:</b> This seismogram is a simulation. The actual records of
+        earthquake waves are far more complicated than what is presented here.
+        As P and S waves travel through the earth, they are reflected by various
+        layers of the earth (such as the core-mantle boundary). This interaction
+        produces additional seismic waves (phases) which will be detected by
+        seismographs. Once you successfully complete this tutorial, you will be
+        given links to some seismology labs, where you can see real seismograms.
+      </p>
+    </section>
     <button
       slot="actions"
       class="btn btn-primary text-light"

@@ -4,7 +4,7 @@
       <span class="navbar-brand">Earthquake Simulation</span>
     </nav>
     <div class="container nav nav-tabs" id="mainTabs" role="tablist">
-      <router-link class="nav-item nav-link active" id="home-tab" to="/home">
+      <router-link class="nav-item nav-link active" id="home-tab" to="/">
         Home
       </router-link>
     </div>
